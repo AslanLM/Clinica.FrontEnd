@@ -1,2 +1,2 @@
-# SistemaClinica.FrontEnd
+# Clinica.Frontend
 Sistema que gestiona clinicas
